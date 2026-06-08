@@ -155,13 +155,3 @@ This dashboard enables organizations to:
 - Support data-driven business decisions.
 
 ---
-
-## 👨‍💻 Author
-
-**Jatin Singh**
-
-Aspiring Data Analyst | Power BI Enthusiast | SQL | Python | Data Visualization
-
----
-
-### ⭐ If you found this project useful, consider giving it a star!
