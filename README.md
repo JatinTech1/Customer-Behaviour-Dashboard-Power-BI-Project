@@ -128,8 +128,6 @@ These filters allow users to perform customized analysis and drill down into spe
 ![Customer Behaviour Dashboard](<img width="1358" height="745" alt="Screenshot 2026-06-08 014039" src="https://github.com/user-attachments/assets/5db5302d-db38-436d-b950-5883e584fa71" />
 )
 
-> Replace `dashboard.png` with the actual dashboard image filename in your repository.
-
 ---
 
 ## 🚀 Skills Demonstrated
