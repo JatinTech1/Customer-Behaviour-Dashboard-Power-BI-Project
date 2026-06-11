@@ -125,7 +125,7 @@ These filters allow users to perform customized analysis and drill down into spe
 
 ## 📷 Dashboard Preview
 
-![Customer Behaviour Dashboard](<img width="1358" height="745" alt="Screenshot 2026-06-08 014039" src="https://github.com/user-attachments/assets/5db5302d-db38-436d-b950-5883e584fa71" />
+(<img width="1358" height="745" alt="Screenshot 2026-06-08 014039" src="https://github.com/user-attachments/assets/5db5302d-db38-436d-b950-5883e584fa71" />
 )
 
 ---
